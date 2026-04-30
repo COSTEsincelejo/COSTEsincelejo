@@ -2,7 +2,7 @@
 
 💻 Software Developer in training  
 🚀 Backend & Web Development  
-📍 Colombia  
+📍 Colombia  Bogota D.C 
 
 ---
 
@@ -14,11 +14,14 @@
 
 ---
 
+--- 
+## 📫 Contact
+- Gmail: cristianccbr@gmail.com
+- WhatsApp: 3017056143
+- 
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=COSTEsincelejo&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Contact
-- Gmail: tucorreo@gmail.com
-- LinkedIn: tu perfil
